@@ -11,7 +11,9 @@ This project presents a Content-Based Movie Recommendation System that suggests 
 
 - `tmdb_5000_movies.csv`
 - `tmdb_5000_credits.csv
--  These datasets were manually downloaded from Kaggle and are stored locally on the desktop
+-  **credit Dataset download link:**  
+[Click here to download the dataset](https://drive.google.com/file/d/1XEqI27WZq1TjNhE3J4ufL3Z1KVY8zB0t/view?usp=drive_link)
+
 
   ---
   ##  Technologies Used
